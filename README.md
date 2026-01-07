@@ -28,7 +28,7 @@ Cette formule est exacte pour tout _n_ ≥ 1, mais sa complexité est O(2^n · n
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-username>/willans-prime-formula.git
+git clone https://github.com/valorisa/willans-prime-formula.git
 cd willans-prime-formula
 python3 -m venv venv
 source venv/bin/activate  # Linux/macOS
