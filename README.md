@@ -1,8 +1,5 @@
 # Willans' Prime Formula
 
-[
-[
-
 Implémentation de la formule de C. P. Willans (1964) pour calculer le _n_-ième nombre premier à partir de son rang _n_. Projet éducatif explorant cette formule mathématique exacte mais inefficace.[1][2][3]
 
 ## Description
